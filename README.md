@@ -17,7 +17,7 @@ ClickHouse can insert data from local directories. ClickHouse has support for di
 
 ## Mount S3 
 
-`	• wget https://bit.ly/goofys-latest
+	• wget https://bit.ly/goofys-latest
 
 	• chmod +x goofys-latest
 
