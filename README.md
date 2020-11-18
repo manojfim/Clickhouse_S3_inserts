@@ -1,2 +1,3 @@
-# Clickhouse_S3_inserts
+
+# Purpose of the repo: 
 Insert data from S3 to Clickhouse
