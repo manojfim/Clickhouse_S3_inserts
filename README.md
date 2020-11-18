@@ -17,7 +17,7 @@ ClickHouse can insert data from local directories. ClickHouse has support for di
 
 ## Mount S3 
 
-	• wget https://bit.ly/goofys-latest
+`	• wget https://bit.ly/goofys-latest
 
 	• chmod +x goofys-latest
 
@@ -25,5 +25,5 @@ ClickHouse can insert data from local directories. ClickHouse has support for di
 
 	• mkdir -p /<bucket-name>
 
-	• /usr/local/bin/goofys -f -o allow_other --uid=111 --gid=115 --file-mode=0777 --dir-mode=0777 -o noatime <bucket-name> /<bucket-name>
+	• /usr/local/bin/goofys -f -o allow_other --uid=111 --gid=115 --file-mode=0777 --dir-mode=0777 -o noatime <bucket-name> /<bucket-name>`
 
